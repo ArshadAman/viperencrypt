@@ -1,2 +1,7 @@
 # viperencrypt
-This is a cool encryption progra
+
+git glone
+
+pip install -r requirements.txt
+
+
